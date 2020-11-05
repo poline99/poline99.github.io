@@ -1,0 +1,86 @@
+#img_1 {
+    position: absolute;
+    width: 550px;
+    height: 850px;
+}
+
+#img_2 {
+    position: relative;
+    left: 100px;
+    top: 350px;
+    width: 325px;
+    height: 325px;
+
+}
+
+.o {
+    background-image: url(./template.jpg);
+    background-size: 370px 680px;
+}
+
+
+.rounded-rectangle {
+    width: 78px;
+    height: 70px;
+    display: inline-block;
+}
+
+.firstline {
+    position: relative;
+    top: -50px;
+    left: -230px;
+}
+
+.secondline {
+    position: relative;
+    left: 100px;
+    top: -30px;
+}
+
+
+.o-facebook {
+    position: relative;
+    left: -230px;
+    background-position-x: -25px;
+    background-position-y: -55px;
+}
+
+.o-instagram {
+    left: -245px;
+    background-position-x: -95px;
+    background-position-y: -55px;
+}
+
+.o-whatsapp {
+    left: -237px;
+    background-position-x: -190px;
+    background-position-y: -55px;
+}
+
+.o-chrome {
+    background-position-x: -280px;
+    background-position-y: -55px;
+}
+
+
+.o-messenger {
+    background-position-x: -25px;
+    background-position-y: -137px;
+}
+
+.o-timetree {
+    left: 95px;
+    background-position-x: -105px;
+    background-position-y: -137px;
+}
+
+.o-moneybook {
+    left: 95px;
+    background-position-x: -190px;
+    background-position-y: -137px;
+}
+
+.o-line {
+    background-position-x: -280px;
+    background-position-y: -137px;
+}
