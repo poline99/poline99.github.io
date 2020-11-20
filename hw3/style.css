@@ -1,0 +1,59 @@
+.center {
+    text-align: center;
+}
+
+.display {
+    display: flex;
+    max-width: 50em;
+}
+
+.margin {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    flex-direction: column;
+}
+
+.mb {
+    margin-bottom: auto;
+}
+
+.p {
+    padding: 1rem;
+}
+
+.cover {
+    padding: 0 1.5rem;
+}
+
+.mf {
+    margin-top: auto;
+}
+
+body {
+    background-color: rgb(255, 196, 0);
+    line-height: 1.5;
+    font-family: 'FangSong', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+h1 {
+    display: block;
+    font-size: 5rem;
+    color: honeydew;
+}
+
+h2 {
+    display: block;
+    font-size: 2rem;
+    color: whitesmoke;
+}
+
+h3 {
+    display: block;
+    font-size: 1.5rem;
+    color: coral;
+}
